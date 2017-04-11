@@ -1,0 +1,138 @@
+
+textures.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+block
+  rotate: false
+  xy: 2, 12
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+bob
+  rotate: false
+  xy: 426, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+death
+  rotate: false
+  xy: 52, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 86, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 120, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 154, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy4
+  rotate: false
+  xy: 188, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy5
+  rotate: false
+  xy: 222, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goal
+  rotate: false
+  xy: 256, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+healthPowerup
+  rotate: false
+  xy: 290, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 324, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+manaPowerup
+  rotate: false
+  xy: 358, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 392, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 452, 36
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 478, 36
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 52, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: false
+  xy: 78, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+textures/textures
+  rotate: false
+  xy: 2, 2
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
